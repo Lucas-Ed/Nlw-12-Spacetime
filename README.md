@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-o Projeto é uma aplicação de linha do tempo, uma aplicação completa, web e mobile.
+o Projeto é uma aplicação de cápsula do tempo, uma aplicação completa, web e mobile.
 [Mais detalhes do projeto aqui.](https://efficient-sloth-d85.notion.site/Trilha-Ignite-e2ed19139b544a46984a28b65dcd4aae)
 
 

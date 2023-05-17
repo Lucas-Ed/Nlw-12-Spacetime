@@ -10,6 +10,13 @@ Criar o projeto usando expo:
 ```bash
 npx create-expo-app mobile --template
 ```
+
+npm i prettier-plugin-tailwindcss -D
+
+npm i nativewind
+npm i tailwindcss -D
+npx tailwindcss init
+
 escolher o blank(typescript).
 
 Executar a aplicação:
